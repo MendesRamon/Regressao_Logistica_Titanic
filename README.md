@@ -1,4 +1,4 @@
-# Regressao Logística - Case Titanic
+# Regressão Logística - Case Titanic
 
 Dados: <https://www.kaggle.com/c/titanic/data>
 
